@@ -19,13 +19,18 @@ The underlying equilibrium is resolved using direct matrix partitioning:
 
 $$
 \begin{bmatrix}
-a & b \\
-c & d
+K_{ff} & K_{fs} \\
+K_{sf} & K_{ss}
 \end{bmatrix}
-$$
-
-$$
-\begin{bmatrix} K_{ff} & K_{fs} \\ K_{sf} & K_{ss} \end{bmatrix} \begin{bmatrix} U_f \\ U_s \end{bmatrix} = \begin{bmatrix} P_f \\ P_s \end{bmatrix}
+\begin{bmatrix}
+U_f \\
+U_s
+\end{bmatrix}
+=
+\begin{bmatrix}
+P_f \\
+P_s
+\end{bmatrix}
 $$
 
 *Where:*
