@@ -17,7 +17,9 @@ Users can interact with the engine via browser-based terminal commands or native
 ### 📐 Governing Equation
 The underlying equilibrium is resolved using direct matrix partitioning:
 
-$$\begin{bmatrix} K_{ff} & K_{fs} \\ K_{sf} & K_{ss} \end{bmatrix} \begin{bmatrix} U_f \\ U_s \end{bmatrix} \quad = \quad \begin{bmatrix} P_f \\ P_s \end{bmatrix}$$
+$$
+\begin{bmatrix} K_{ff} & K_{fs} \\ K_{sf} & K_{ss} \end{bmatrix} \begin{bmatrix} U_f \\ U_s \end{bmatrix} = \begin{bmatrix} P_f \\ P_s \end{bmatrix}
+$$
 
 *Where:*
 * $K_{ff}$ = Global stiffness matrix sub-tensor matching unconstrained (free) degrees of freedom.
