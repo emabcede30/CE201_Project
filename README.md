@@ -25,9 +25,7 @@ K_{sf} & K_{ss}
 \begin{bmatrix}
 U_f \\
 U_s
-\end{bmatrix}
-=
-\begin{bmatrix}
+\end{bmatrix} = \begin{bmatrix}
 P_f \\
 P_s
 \end{bmatrix}
