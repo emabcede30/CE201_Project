@@ -5,9 +5,9 @@ CE201 Project of a structure
 
 **A pure Python computational core and interactive web-CLI for solving 3D structural frameworks.**
 
-This project is a high-performance Finite Element solver built to perform static equilibrium evaluations on complex space frame structures. It cleanly decouples a heavy mathematical backend (`NumPy`, `Pandas`) from a responsive, retro-style web-terminal UI (`FastAPI`, `Xterm.js`). 
+This project is a high-performance Matrix solver built to perform static equilibrium evaluations on complex space frame structures. It cleanly decouples a heavy mathematical backend (`NumPy`, `Pandas`) from a jupyter notebook. 
 
-Users can interact with the engine via browser-based terminal commands or natively through a Jupyter Notebook (`CE201_Project_code.ipynb`). The system reads concrete geometry and section properties directly from a `properties.csv` file, automatically calculates exact member self-weights (using a $2.4 \times 10^{-8} \text{ kN/mm}^3$ density), and executes full 3D spatial transformations to resolve structural displacements and internal forces.
+Users can interact with the engine via browser-based terminal commands or natively through a Jupyter Notebook (`CE201_Project_code.ipynb`). The system reads concrete geometry and section properties directly from a `properties.csv`, set fixities in `fixities.csv`, and nodal loads from slab and self weight `input_slabs.csv`, `loads_slab.csv`, `loads_sw.csv` evaluated from the `CE201_Project_codeloads.ipynb`, and executes full 3D spatial transformations to resolve structural displacements and internal forces.
 
 ### ✨ Core Capabilities
 * **12x12 Stiffness Matrices:** Computes complete local element matrices accounting for axial stiffness, torsion, and biaxial bending.
