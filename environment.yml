@@ -1,0 +1,8 @@
+name: openseespy
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - weasyprint
+prefix: C:\Users\AMH-L137\anaconda3\envs\openseespy
