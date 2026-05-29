@@ -1,0 +1,64 @@
+[05/29/2026 13:08:50][INFO]:	Reading UID database.
+[05/29/2026 13:08:50][INFO]:	Start loading STAAD model.
+[05/29/2026 13:08:50][INFO]:	Reading model file.
+[05/29/2026 13:08:51][INFO]:	Reading model file is complete.
+[05/29/2026 13:08:51][INFO]:	Processing support.
+[05/29/2026 13:08:51][INFO]:	Processing springs.
+[05/29/2026 13:08:51][INFO]:	Processing properties.
+[05/29/2026 13:08:51][INFO]:	Processing physical properties.
+[05/29/2026 13:08:51][INFO]:	Processing constants.
+[05/29/2026 13:08:51][INFO]:	Processing BETA constants.
+[05/29/2026 13:08:51][INFO]:	Processing hidden analytical member loads.
+[05/29/2026 13:08:51][INFO]:	Processing command list for member release.
+[05/29/2026 13:08:51][INFO]:	Processing command list for member offset.
+[05/29/2026 13:08:51][INFO]:	Processing command list for member specs (cracked).
+[05/29/2026 13:08:51][INFO]:	Processing command list for member specs (axial).
+[05/29/2026 13:08:51][INFO]:	Processing command list for element release.
+[05/29/2026 13:08:51][INFO]:	Processing command list for element offset.
+[05/29/2026 13:08:51][INFO]:	Processing command list for element plate stress directive.
+[05/29/2026 13:08:51][INFO]:	Processing parameter for Chinese wind load case.
+[05/29/2026 13:08:51][INFO]:	End Processing command list.
+[05/29/2026 13:08:51][INFO]:	End loading STAAD model.
+[05/29/2026 13:08:51][INFO]:	Start Post Analysis method
+[05/29/2026 13:08:51][INFO]:	Removed all hidden plates from surfaces
+[05/29/2026 13:08:51][INFO]:	Removed all hidden plates
+[05/29/2026 13:08:51][INFO]:	Removed all hidden nodes
+[05/29/2026 13:08:51][INFO]:	Loading results from MSH file...
+[05/29/2026 13:08:51][INFO]:	Building result indices...
+[05/29/2026 13:08:51][INFO]:	Loading plate stress results...
+[05/29/2026 13:08:51][INFO]:	Set analysis report setup data
+[05/29/2026 13:08:51][INFO]:	Starting page setup...
+[05/29/2026 13:08:51][INFO]:	Page setup completed
+[05/29/2026 13:08:51][INFO]:	Setting available workflows...
+[05/29/2026 13:08:51][INFO]:	Post analysis method ends
+[05/29/2026 13:09:04][INFO]:	Start Post Analysis method
+[05/29/2026 13:09:04][INFO]:	Removed all hidden plates from surfaces
+[05/29/2026 13:09:04][INFO]:	Removed all hidden plates
+[05/29/2026 13:09:04][INFO]:	Removed all hidden nodes
+[05/29/2026 13:09:04][INFO]:	Loading results from MSH file...
+[05/29/2026 13:09:04][INFO]:	Building result indices...
+[05/29/2026 13:09:04][INFO]:	Loading plate stress results...
+[05/29/2026 13:09:04][INFO]:	Set analysis report setup data
+[05/29/2026 13:09:04][INFO]:	Starting page setup...
+[05/29/2026 13:09:04][INFO]:	Page setup completed
+[05/29/2026 13:09:04][INFO]:	Setting available workflows...
+[05/29/2026 13:09:04][INFO]:	Post analysis method ends
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.dsp cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.rea cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.bmd cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.scn cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.dbs cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.EQL cannot be removed.
+[05/29/2026 13:12:26][INFO]:	RemoveAllOutputFiles(): File C:\Users\PC\Downloads\mymodel\MyModel.cfr cannot be removed.
+[05/29/2026 13:12:31][INFO]:	Start Post Analysis method
+[05/29/2026 13:12:31][INFO]:	Removed all hidden plates from surfaces
+[05/29/2026 13:12:31][INFO]:	Removed all hidden plates
+[05/29/2026 13:12:31][INFO]:	Removed all hidden nodes
+[05/29/2026 13:12:31][INFO]:	Loading results from MSH file...
+[05/29/2026 13:12:31][INFO]:	Building result indices...
+[05/29/2026 13:12:31][INFO]:	Loading plate stress results...
+[05/29/2026 13:12:31][INFO]:	Set analysis report setup data
+[05/29/2026 13:12:31][INFO]:	Starting page setup...
+[05/29/2026 13:12:31][INFO]:	Page setup completed
+[05/29/2026 13:12:31][INFO]:	Setting available workflows...
+[05/29/2026 13:12:31][INFO]:	Post analysis method ends
